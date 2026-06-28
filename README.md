@@ -1,7 +1,7 @@
 # 📊 Tableau Data Visualisation Project
 
 ## 📌 Overview
-This project was completed during **Week 2 of a Data Technician Bootcamp**, focusing on data visualisation, dashboard design, and business insights using **Tableau and Power BI**.
+This project was completed during **Week 2 of a Data Technician Bootcamp**, focusing on data visualisation, dashboard design, and business insights using **Tableau**.
 
 The project explores global health data, music streaming data, and business intelligence reporting to develop interactive dashboards and communicate insights effectively.
 
@@ -9,7 +9,6 @@ The project explores global health data, music streaming data, and business inte
 
 ## 🧠 Skills & Tools Used
 
-### 🟦 Tableau
 - Data visualisation (bar charts, line charts, pie charts, scatter plots)
 - Dashboard creation and layout design
 - Filters and interactive controls
@@ -30,7 +29,7 @@ The project explores global health data, music streaming data, and business inte
 
 ## 📂 Project Tasks
 
-### ✅ Global Health Dashboard (Tableau)
+### ✅ Global Health Dashboard
 Using the Gapminder dataset:
 
 - Created **Life Expectancy by Continent** (bar chart)
@@ -46,7 +45,7 @@ Using the Gapminder dataset:
 - Gender population distribution is nearly equal across countries
 ---
 
-### ✅ Spotify Data Analysis (Tableau)
+### ✅ Spotify Data Analysis
 - Analysed music dataset containing:
   - Popularity
   - Danceability
@@ -56,16 +55,6 @@ Using the Gapminder dataset:
   - Music characteristics
   - Genre behaviour
   - Track popularity patterns
-
----
-
-### ✅ Power BI Labs & Reports
-- Completed labs on:
-  - Data cleaning and transformation
-  - Report design and layout
-  - Combining multiple data sources
-  - Creating DAX calculations  
-- Built and published interactive reports
 
 ---
 
